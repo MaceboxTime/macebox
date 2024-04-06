@@ -1,2 +1,1 @@
 # macebox
-Javasecipt mini projevt
